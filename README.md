@@ -11,6 +11,10 @@
 > * ส่งการบ้านได้ช้าสุดคือก่อนเวลาทำ code review ที่จะถึง (ถ้า pull request มาหลัง code review เริ่มถือว่าส่ง **Late**)  
 > * หลังจบ code review เฉลยจะอยู่ใน folder ชื่อเดียวกันกับ ข้อที่ทำ code review ไป
 
+## 14/11/2018
+* [Homework 03](HomeWork03.md)
+* [Homework 04](HomeWork04.md)
+
 ## 12/11/2018
 * [Homework 01](HomeWork01.md)
 * [Homework 02](HomeWork02.md)
