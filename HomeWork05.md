@@ -13,6 +13,7 @@
 > `<<รอรับ input>>` เป็นการรอรับข้อมูลจาก keyboard
 ```
 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+ 1   2   3   4   5   6   7   8   9   A
 Please choose LED to turn On/Off: <<รอรับ input>>
 ```
 
@@ -20,6 +21,7 @@ Please choose LED to turn On/Off: <<รอรับ input>>
 
 ```
 [ ] [ ] [ ] [!] [ ] [ ] [ ] [ ] [ ] [ ]
+ 1   2   3   4   5   6   7   8   9   A
 Please choose LED to turn On/Off: <<รอรับ input>>
 ```
 
@@ -27,6 +29,7 @@ Please choose LED to turn On/Off: <<รอรับ input>>
 
 ```
 [ ] [ ] [ ] [!] [ ] [ ] [ ] [ ] [ ] [!]
+ 1   2   3   4   5   6   7   8   9   A
 Please choose LED to turn On/Off: <<รอรับ input>>
 ```
 
@@ -34,6 +37,7 @@ Please choose LED to turn On/Off: <<รอรับ input>>
 
 ```
 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [!]
+ 1   2   3   4   5   6   7   8   9   A
 Please choose LED to turn On/Off: <<รอรับ input>>
 ```
 
