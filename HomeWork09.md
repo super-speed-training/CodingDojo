@@ -35,7 +35,7 @@ Please input a product key: <<รอรับ input>>
 
 ```
 Products in your cart are
-iPad Pro 11-inch        23,900.00
+1.iPad Pro 11-inch        23,900.00
 ---
 Total amount: 23,900.00 baht
 Please input a product key: <<รอรับ input>>
@@ -45,8 +45,8 @@ Please input a product key: <<รอรับ input>>
 
 ```
 Products in your cart are
-iPad Pro 11-inch        23,900.00
-Apple Watch Series 4    14,400.00
+1.iPad Pro 11-inch        23,900.00
+2.Apple Watch Series 4    14,400.00
 ---
 Total amount: 38,300.00 baht
 Please input a product key: <<รอรับ input>>
@@ -56,9 +56,9 @@ Please input a product key: <<รอรับ input>>
 
 ```
 Products in your cart are
-iPad Pro 11-inch        23,900.00
-Apple Watch Series 4    14,400.00
-Apple Watch Series 4    14,400.00
+1.iPad Pro 11-inch        23,900.00
+2.Apple Watch Series 4    14,400.00
+3.Apple Watch Series 4    14,400.00
 ---
 Total amount: 52,700.00 baht
 Please input a product key: <<รอรับ input>>
