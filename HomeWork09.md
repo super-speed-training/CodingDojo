@@ -24,17 +24,17 @@ p09,Mac Mini 2018,27900
 ตัวอย่างด้านล่างนี้เป็นการทำงานทีละขั้นตอนตามลำดับ  
 > `<<รอรับ input>>` เป็นการรอรับข้อมูลจาก keyboard
 ```
-Product in your cart are
+Products in your cart are
 none
 ---
-Total amount: 0 baht
+Total amount: 0.00 baht
 Please input a product key: <<รอรับ input>>
 ```
 
 ทำการใส่รหัสสินค้า `p01`
 
 ```
-Product in your cart are
+Products in your cart are
 iPad Pro 11-inch        23,900.00
 ---
 Total amount: 23,900.00 baht
@@ -44,7 +44,7 @@ Please input a product key: <<รอรับ input>>
 ทำการใส่รหัสสินค้า `p02`
 
 ```
-Product in your cart are
+Products in your cart are
 iPad Pro 11-inch        23,900.00
 Apple Watch Series 4    14,400.00
 ---
@@ -55,7 +55,7 @@ Please input a product key: <<รอรับ input>>
 ทำการใส่รหัสสินค้า `p02`
 
 ```
-Product in your cart are
+Products in your cart are
 iPad Pro 11-inch        23,900.00
 Apple Watch Series 4    14,400.00
 Apple Watch Series 4    14,400.00
