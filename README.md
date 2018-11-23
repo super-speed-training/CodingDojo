@@ -14,6 +14,10 @@
 ## 23/11/2018
 * [Homework 10](HomeWork10.md)
 
+## 21/11/2018
+* [Homework 08](HomeWork08.md)
+* [Homework 09](HomeWork09.md)
+
 ## 19/11/2018
 * [Homework 06](HomeWork06.md)
 * [Homework 07](HomeWork07.md)
