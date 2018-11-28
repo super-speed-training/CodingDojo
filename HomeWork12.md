@@ -41,7 +41,7 @@ First not duplicate charactor is: -
 ```
 public interface IHomework12
 {
-    string FirstDuplicateCharactor();
-    string FirstNotDuplicateCharactor();
+    char FirstDuplicateCharactor(string text);
+    char FirstNotDuplicateCharactor(string text);
 }
 ```
