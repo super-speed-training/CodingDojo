@@ -106,6 +106,6 @@ Please input a number: <<รอรับ input>>
 public interface IHomework14
 {
     void SetupANewGame();
-    string Homework14(int number);
+    string GetGameResult(int number);
 }
 ```
