@@ -23,6 +23,6 @@
 ```
 public interface IHomework13
 {
-    int Homework13(IEnumerable<int> numbers);
+    IEnumerable<int> Homework13(IEnumerable<int> numbers);
 }
 ```
