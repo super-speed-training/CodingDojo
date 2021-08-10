@@ -6,7 +6,15 @@ namespace Homework03Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var sut = new Homework03();
+
+            var list = new string[] { "Hello world", "Practice makes perfect" };
+            var result = sut.CapitalizedText(list);
+
+            foreach (var item in result)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
