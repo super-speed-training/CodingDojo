@@ -1,0 +1,9 @@
+C:\Users\tatae999\Desktop\SubmitCodingDojo3333\homework3\bin\Release\netstandard2.0\homework3.deps.json
+C:\Users\tatae999\Desktop\SubmitCodingDojo3333\homework3\bin\Release\netstandard2.0\homework3.dll
+C:\Users\tatae999\Desktop\SubmitCodingDojo3333\homework3\bin\Release\netstandard2.0\homework3.pdb
+C:\Users\tatae999\Desktop\SubmitCodingDojo3333\homework3\obj\Release\netstandard2.0\homework3.csprojAssemblyReference.cache
+C:\Users\tatae999\Desktop\SubmitCodingDojo3333\homework3\obj\Release\netstandard2.0\homework3.csproj.CoreCompileInputs.cache
+C:\Users\tatae999\Desktop\SubmitCodingDojo3333\homework3\obj\Release\netstandard2.0\homework3.AssemblyInfoInputs.cache
+C:\Users\tatae999\Desktop\SubmitCodingDojo3333\homework3\obj\Release\netstandard2.0\homework3.AssemblyInfo.cs
+C:\Users\tatae999\Desktop\SubmitCodingDojo3333\homework3\obj\Release\netstandard2.0\homework3.dll
+C:\Users\tatae999\Desktop\SubmitCodingDojo3333\homework3\obj\Release\netstandard2.0\homework3.pdb
