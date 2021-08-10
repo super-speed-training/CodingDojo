@@ -1,0 +1,12 @@
+D:\Working\CodingDojo\HomeWork03\bin\Debug\netcoreapp2.1\demoupper.deps.json
+D:\Working\CodingDojo\HomeWork03\bin\Debug\netcoreapp2.1\demoupper.runtimeconfig.json
+D:\Working\CodingDojo\HomeWork03\bin\Debug\netcoreapp2.1\demoupper.runtimeconfig.dev.json
+D:\Working\CodingDojo\HomeWork03\bin\Debug\netcoreapp2.1\demoupper.dll
+D:\Working\CodingDojo\HomeWork03\bin\Debug\netcoreapp2.1\demoupper.pdb
+D:\Working\CodingDojo\HomeWork03\obj\Debug\netcoreapp2.1\demoupper.csprojAssemblyReference.cache
+D:\Working\CodingDojo\HomeWork03\obj\Debug\netcoreapp2.1\demoupper.AssemblyInfoInputs.cache
+D:\Working\CodingDojo\HomeWork03\obj\Debug\netcoreapp2.1\demoupper.AssemblyInfo.cs
+D:\Working\CodingDojo\HomeWork03\obj\Debug\netcoreapp2.1\demoupper.csproj.CoreCompileInputs.cache
+D:\Working\CodingDojo\HomeWork03\obj\Debug\netcoreapp2.1\demoupper.dll
+D:\Working\CodingDojo\HomeWork03\obj\Debug\netcoreapp2.1\demoupper.pdb
+D:\Working\CodingDojo\HomeWork03\obj\Debug\netcoreapp2.1\demoupper.genruntimeconfig.cache
