@@ -8,6 +8,8 @@ namespace homework03.Test
     {
         [Theory]
         [InlineData("Hello world","HELLO WORLD")]
+        [InlineData("nice","NICE")]
+
         public void ToUpperText(string inputString, string expected)
         { 
             var input = inputString.Split(' ');
