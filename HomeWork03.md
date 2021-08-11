@@ -16,7 +16,7 @@ PRACTICE MAKES PERFECT
 > Hints:  
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
-## Interface(s)
+## Interface
 ```
 public interface IHomework03
 {
